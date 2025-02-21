@@ -10,16 +10,9 @@ As linguagens utilizadas no desenvolvimento no jogo foram:
 HTML: Foi utilizada para estrutura basica do site que contem o jogo.
 CSS: Foi usada na estilização e na boa parte da estrutura vizual do jogo.
 JavaScript: Foi utilizada para toda parte tecnica e jogabilidade geral do jogo.
+
 ## Banco de Dados
 Nesse projeto não foi utilizada uma forma de armazenamento de dados, pois o jogo por ser muito simples não necessitou de um banco de salvamento de dados completo.
-## Framework
-Este jogo foi desenvolvido com as seguintes ferramentas:
-
-VScode: Foi utilizada em toda a contrução do projeto para construção e manipulação de HTML e JavaScript.
-
-Construct 3: Foi utilizado para vizualização do jogo e testes, além de ser utlizado para geração de codigos.
-
-IbisPaint: Foi utilizado para o desenvolvimento das artes do jogo juntamento com uma parte dos cenarios e objetos.
 
 ## Framework
 Este jogo foi desenvolvido com as seguintes ferramentas:
